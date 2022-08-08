@@ -5,3 +5,4 @@ print("HelloWorld")
 
 print(hash("Rishab"))
 print("Software Engineering")
+print("Skill test-2")
